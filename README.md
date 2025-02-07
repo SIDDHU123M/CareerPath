@@ -245,7 +245,9 @@ To hack applications, you must first **build them securely**.
 
 ***
 
-🚀 **By the end of this roadmap, you will be a:** ✅ **Bug Bounty Hunter & Security Researcher**\
+🚀 **By the end of this roadmap, you will be a:**&#x20;
+
+✅ **Bug Bounty Hunter & Security Researcher**\
 ✅ **Full-Stack Developer with Security Expertise**\
 ✅ **Ethical Hacker & Penetration Tester**\
 ✅ **Cybersecurity Engineer & DevSecOps Specialist**
