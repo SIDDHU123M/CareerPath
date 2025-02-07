@@ -18,11 +18,11 @@
 
 ## Web & Software Development
 
+* [HTML & CSS](web-and-software-development/html-and-css.md)
 * [React.JS](web-and-software-development/react.js.md)
 * [Node.JS](web-and-software-development/node.js.md)
 * [Express.JS](web-and-software-development/express.js.md)
 * [Next.JS (Optional)](web-and-software-development/next.js-optional.md)
-* [HTML & CSS](web-and-software-development/html-and-css.md)
 * [Tailwind CSS (Optional)](web-and-software-development/tailwind-css-optional.md)
 * [TypeScript (Optional)](web-and-software-development/typescript-optional.md)
 

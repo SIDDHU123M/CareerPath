@@ -4,13 +4,13 @@ icon: fire
 
 # Alternate Roadmap
 
-**The Ultimate Cybersecurity & Full-Stack Mastery Roadmap**\
-&#xNAN;_&#x42;ecome a Swiss Army Knife of Tech: Developer, Hacker, and Security Architect in 12 Months_
--------------------------------------------------------------------------------------------------------
+## **The Ultimate Cybersecurity & Full-Stack Mastery Roadmap**
+
+_**Become a Swiss Army Knife of Tech: Developer, Hacker, and Security Architect in 12 Months**_
 
 ***
 
-### **Enhanced Features of This Roadmap**
+### **Enhanced Features of This Roadmap from Previous**
 
 * **Holistic Skill Integration:** Bridges coding, hacking, and secure system design
 * **Emerging Tech Focus:** Cloud, AI, IoT, and DevSecOps integrations
