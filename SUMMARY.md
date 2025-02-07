@@ -26,7 +26,7 @@
 * [Tailwind CSS (Optional)](web-and-software-development/tailwind-css-optional.md)
 * [TypeScript (Optional)](web-and-software-development/typescript-optional.md)
 
-## Cybersecurity & Hacking:
+## Cybersecurity & Hacking
 
 * [Cybersecurity & Hacking](cybersecurity-and-hacking/cybersecurity-and-hacking.md)
 * [Ethical Hacking](cybersecurity-and-hacking/ethical-hacking.md)
