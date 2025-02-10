@@ -6,6 +6,7 @@
 * [Alternate Roadmap](getting-started/alternate-roadmap.md)
 * [Languages & Technologies](getting-started/publish-your-docs.md)
 * [Resources](getting-started/resources.md)
+* [Artificial Intelligence (Bonus)](getting-started/artificial-intelligence-bonus.md)
 
 ## Programming Languages
 
