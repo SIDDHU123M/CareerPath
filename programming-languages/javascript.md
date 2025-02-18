@@ -131,6 +131,37 @@ This **detailed roadmap** will take you from **beginner to advanced** in **JavaS
 * [CodeWars](https://www.codewars.com/)
 * [JavaScript Interview Questions](https://github.com/sudheerj/javascript-interview-questions)
 
+#### ⚙️ Resources
+
+* **MDN JavaScript Guide** - [MDN Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+* **JavaScript Basics** - [JavaScript.info](https://javascript.info/)
+* **Eloquent JavaScript (Free Book)** - [Eloquent JavaScript](https://eloquentjavascript.net/)
+* **JavaScript Course (FreeCodeCamp)** - [FCC JavaScript Course](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+* **CS50’s Web Programming with JavaScript** - [Harvard Course](https://cs50.harvard.edu/web/)
+* **Eloquent JavaScript (Chapters on Async JS, DOM, Debugging)** - [Eloquent JavaScript](https://eloquentjavascript.net/)
+* **Project-Based JavaScript Course** - [Javascript30](https://javascript30.com/)
+* **You Don’t Know JS (Book Series - Free)** - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+* **JavaScript ES6+ Features** - [ES6 Guide](https://www.ecma-international.org/ecma-262/6.0/)
+* **Full Stack Course** - [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript)
+* **Frontend Masters: JavaScript Performance** - [Frontend Masters](https://frontendmasters.com/)
+* **Testing in JavaScript (Jest Guide)** - [Jest Docs](https://jestjs.io/)
+* **MERN Stack Guide** - [MERN Stack Tutorial](https://www.mongodb.com/mern-stack)
+* **Full-Stack Open Course** - [Full-Stack Open](https://fullstackopen.com/en/)
+
+### **🔥 Useful GitHub Repositories**
+
+These **GitHub repositories** contain **real-world projects**, **coding challenges**, and **interview prep** for JavaScript developers.
+
+| Repository                                                                            | Description                                                     |
+| ------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
+| [**JavaScript Algorithms**](https://github.com/trekhleb/javascript-algorithms)        | A collection of JavaScript algorithms with explanations.        |
+| [**30 Seconds of Code**](https://github.com/30-seconds/30-seconds-of-code)            | Short and useful JavaScript code snippets.                      |
+| [**You Don’t Know JS**](https://github.com/getify/You-Dont-Know-JS)                   | One of the best free books on JavaScript.                       |
+| [**Awesome JavaScript**](https://github.com/sorrycc/awesome-javascript)               | A curated list of JavaScript resources.                         |
+| [**JavaScript Questions**](https://github.com/lydiahallie/javascript-questions)       | Interview questions & answers for JavaScript.                   |
+| [**Eloquent JavaScript Solutions**](https://github.com/nijikokun/eloquent-javascript) | Solutions to Eloquent JavaScript book exercises.                |
+| [**Node.js Best Practices**](https://github.com/goldbergyoni/nodebestpractices)       | A comprehensive list of best practices for Node.js development. |
+
 🚀 **By mastering this roadmap, you’ll be able to:**\
 ✅ **Build Scalable JavaScript Applications**\
 ✅ **Optimize Performance for Large-Scale Apps**\
