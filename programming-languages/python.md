@@ -4,13 +4,13 @@ icon: python
 
 # Python
 
-## **Python Mastery Roadmap** <a href="#python-mastery-roadmap" id="python-mastery-roadmap"></a>
+## **Python Mastery Roadmap**
 
 This is a **detailed roadmap** for learning **Python**, covering everything from **basics** to **advanced**, including **security, automation, and hacking-related Python topics**.
 
 ***
 
-### **Phase 1: Python Foundations** <a href="#phase-1-python-foundations" id="phase-1-python-foundations"></a>
+### **Phase 1: Python Foundations**
 
 ✅ **Syntax & Basics**
 
@@ -55,7 +55,7 @@ This is a **detailed roadmap** for learning **Python**, covering everything from
 
 ***
 
-### **Phase 2: Advanced Python & Automation** <a href="#phase-2-advanced-python-and-automation" id="phase-2-advanced-python-and-automation"></a>
+### **Phase 2: Advanced Python & Automation**
 
 ✅ **Python Functional Programming**
 
@@ -82,7 +82,7 @@ This is a **detailed roadmap** for learning **Python**, covering everything from
 
 ***
 
-### **Phase 3: Data Science, Machine Learning & Security** <a href="#phase-3-data-science-machine-learning-and-security" id="phase-3-data-science-machine-learning-and-security"></a>
+### **Phase 3: Data Science, Machine Learning & Security**
 
 ✅ **Data Science & AI with Python**
 
@@ -106,7 +106,7 @@ This is a **detailed roadmap** for learning **Python**, covering everything from
 
 ***
 
-### **Phase 4: Web Development & API Security** <a href="#phase-4-web-development-and-api-security" id="phase-4-web-development-and-api-security"></a>
+### **Phase 4: Web Development & API Security**
 
 ✅ **Backend Development (Django & Flask)**
 
@@ -123,17 +123,6 @@ This is a **detailed roadmap** for learning **Python**, covering everything from
 
 * **Secure Login System (Flask + JWT)**
 * **Custom API Rate Limiter**
-
-***
-
-### **📌 Useful GitHub Repos**
-
-| Repository          | Description                           | Link                                              |
-| ------------------- | ------------------------------------- | ------------------------------------------------- |
-| `Awesome Python`    | An opinionated list of awesome Python | [GitHub](https://github.com/vinta/awesome-python) |
-| `malwarebazaar`     | Collection of malware samples         | [GitHub](https://bazaar.abuse.ch/)                |
-| `tensorflow/models` | AI/ML models by Google                | [GitHub](https://github.com/tensorflow/models)    |
-| `scapy`             | Python packet manipulation            | [GitHub](https://github.com/secdev/scapy)         |
 
 ***
 
